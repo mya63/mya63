@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, ich bin Yunus!
 
-<!--
-**mya63/mya63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ich lerne Full-Stack Webentwicklung bei der Developer Akademie.  
+🚀 Mein aktuelles Projekt: [Fotogram-Lion](https://mya63.github.io/Fotogram-Lion-/)
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML / CSS / JavaScript
+- Git & GitHub
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Kontakt
+📬 Du willst mich erreichen?  
+→ Öffne ein „Issue“ in einem meiner Repositories
