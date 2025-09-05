@@ -1,7 +1,7 @@
 # 👋 Hi, ich bin Yunus!
 
 💻 Ich lerne Full-Stack Webentwicklung bei der Developer Akademie.  
-🚀 Mein aktuelles Projekt: [Fotogram-Lion](https://mya63.github.io/Fotogram-Lion-/)
+🚀 Mein aktuelles Projekt: Jump and Run El Pollo Loco: https://github.com/mya63/El-Pollo-Loco
 
 ## 🛠️ Skills
 - HTML / CSS / JavaScript
