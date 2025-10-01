@@ -5,6 +5,7 @@
 
 ## 🛠️ Skills
 - HTML / CSS / JavaScript
+- Angular
 - Git & GitHub
 - VS Code
 
