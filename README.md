@@ -1,7 +1,7 @@
 # 👋 Hi, ich bin Yunus!
 
 💻 Ich lerne Full-Stack Webentwicklung bei der Developer Akademie.  
-🚀 Mein aktuelles Projekt: Jump and Run El Pollo Loco: https://github.com/mya63/El-Pollo-Loco
+🚀 Mein aktuelles Projekt: Mein Portfolio (Live Test) : https://mya63.github.io/portfolio-2.0/   
 
 ## 🛠️ Skills
 - HTML / CSS / JavaScript
