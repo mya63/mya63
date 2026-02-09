@@ -6,6 +6,8 @@
 ## 🛠️ Skills
 - HTML / CSS / JavaScript
 - Angular
+- Django Framework
+- Python
 - Git & GitHub
 - VS Code
 
