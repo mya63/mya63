@@ -6,7 +6,7 @@ Ich entwickle strukturierte Web-Applikationen mit klarer Architektur, sauberen A
 Mein Fokus liegt auf skalierbaren Backend-Systemen und modernen Frontend-Interfaces.
 
 🔗 Portfolio (Live)  
-https://mya63.github.io/portfolio-2.0/
+https://yunusamini.dev
 
 ---
 
